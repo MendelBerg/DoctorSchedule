@@ -1,6 +1,6 @@
 # Doctor's Schedule
 
-### https://vigilant-varahamihira-e3d50b.netlify.app/
+### https://optimistic-keller-403850.netlify.app/
 
 The application which renders a schedule of free hours for admission of patients.
 
